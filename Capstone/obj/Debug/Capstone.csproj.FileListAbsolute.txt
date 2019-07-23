@@ -1,0 +1,7 @@
+C:\Users\JoshB\OneDrive\Capstone\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\JoshB\OneDrive\Capstone\Capstone\bin\Debug\Capstone.exe
+C:\Users\JoshB\OneDrive\Capstone\Capstone\bin\Debug\Capstone.pdb
+C:\Users\JoshB\OneDrive\Capstone\Capstone\obj\Debug\Capstone.csprojAssemblyReference.cache
+C:\Users\JoshB\OneDrive\Capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\JoshB\OneDrive\Capstone\Capstone\obj\Debug\Capstone.exe
+C:\Users\JoshB\OneDrive\Capstone\Capstone\obj\Debug\Capstone.pdb
